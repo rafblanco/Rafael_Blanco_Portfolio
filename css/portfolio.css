@@ -51,6 +51,7 @@
     transition: none;
     padding: 2rem 1.5rem;
     color: rgba(255, 255, 255, 0.5);
+    color: rgba
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
@@ -255,14 +256,14 @@
   text-align: center;
   height: 4rem;
   width: 4rem;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.288);
   border-radius: 100%;
   line-height: 4rem;
-  color: rgba(255, 255, 255, 0.582);
+  color: rgba(255, 255, 255, 0.767);
 }
 
 .contact-section .social a:hover {
-  color: rgba(255, 255, 255, 0.733);
+  color: rgba(255, 255, 255, 0.973);
 }
 
 .contact-section .social a:active {
